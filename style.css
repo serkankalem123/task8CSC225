@@ -1,0 +1,19 @@
+{
+    color: #333;
+}
+
+header a:hover {
+    text-decoration: none;
+}
+
+header a {
+    color: #ff6347;
+}
+
+header ul {
+    display: flex;
+}
+
+header ul li {
+    width: 90px;
+
